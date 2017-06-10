@@ -10,6 +10,6 @@ Command line interface to the npm module [color-hash](https://github.com/zenozen
 ## Usage
 
 ```shell
-$ color-hash-cli Hello World
+$ color-hash Hello World
 #8796c5
 ```
