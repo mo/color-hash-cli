@@ -1,0 +1,13 @@
+{
+  "name": "color-hash-cli",
+  "version": "1.0.0",
+  "description": "Command line interface for the npm color-hash module; generates a color from an arbitrary string.",
+  "bin": {
+    "color-hash": "./index.js"
+  },
+  "author": "Martin Olsson <martin@minimum.se> (https://mo.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "color-hash": "^1.0.3"
+  }
+}
