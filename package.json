@@ -1,6 +1,6 @@
 {
   "name": "color-hash-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Command line interface for the npm color-hash module; generates a color from an arbitrary string.",
   "bin": {
     "color-hash": "./index.js"
