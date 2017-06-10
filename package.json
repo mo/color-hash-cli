@@ -10,7 +10,11 @@
   "repository": {
       "type": "git",
       "url": "https://github.com/mo/color-hash-cli.git"
-  },  "dependencies": {
+  },
+  "bugs": {
+      "url": "https://github.com/mo/color-hash-cli/issues"
+  },
+  "dependencies": {
     "color-hash": "^1.0.3"
   }
 }
