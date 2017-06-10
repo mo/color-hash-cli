@@ -1,7 +1,7 @@
 color-hash-cli
 ==============
 
-Command line interface to the npm module "color-hash".
+Command line interface to the npm module [color-hash](https://github.com/zenozeng/color-hash).
 
 ## Installation
 
